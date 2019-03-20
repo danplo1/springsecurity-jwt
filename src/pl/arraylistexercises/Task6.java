@@ -1,15 +1,14 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Task3 {
-    //Task 3 Write a Java program to insert an element into the array list at the first position.
+public class Task6 {
 
+//Task 6 Write a Java program to remove the third element from a array list.
     public static void main(String[] args) {
 
-
-        List<String> colorList = new ArrayList<>();
+        List<String> colorList= new ArrayList<>();
 
         colorList.add("green");
         colorList.add("white");
@@ -21,13 +20,10 @@ public class Task3 {
 
         System.out.println(colorList);
 
-        colorList.add(0,"white");
-        colorList.add(1, "red");
+        String removeElement = colorList.remove(3);
 
-        System.out.println(colorList);
+        System.out.println(colorList + " , usunięty element: " + removeElement);
 
-        colorList.add(1, "blue");
 
-        System.out.println(colorList);
     }
 }

@@ -1,4 +1,4 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 import java.util.ArrayList;
 import java.util.Collections;

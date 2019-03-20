@@ -1,4 +1,4 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 //Zad.14 Write a Java program of swap two elements in an array list
 

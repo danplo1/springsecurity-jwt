@@ -1,13 +1,13 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Task5 {
-
-    //Task5  Write a Java program to update specific array element by given element.
+public class Task3 {
+    //Task 3 Write a Java program to insert an element into the array list at the first position.
 
     public static void main(String[] args) {
+
 
         List<String> colorList = new ArrayList<>();
 
@@ -21,9 +21,13 @@ public class Task5 {
 
         System.out.println(colorList);
 
-         colorList.set(5, "pink");
-         colorList.set(6, "braun");
+        colorList.add(0,"white");
+        colorList.add(1, "red");
 
-        System.out.println("Ustawienie dwóch ostatnich kolorów na: " + colorList);
+        System.out.println(colorList);
+
+        colorList.add(1, "blue");
+
+        System.out.println(colorList);
     }
 }

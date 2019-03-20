@@ -1,4 +1,4 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 //Zad.10 Write a Java program to shuffle elements in a array lis
 

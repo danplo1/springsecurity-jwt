@@ -1,9 +1,8 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 //Zad. 13 Write a Java program to compare two array lists
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Task13 {

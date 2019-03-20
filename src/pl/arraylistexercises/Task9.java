@@ -1,4 +1,4 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 //Zad. 9 Write a Java program to copy one array list into another
 

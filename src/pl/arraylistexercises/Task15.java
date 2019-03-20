@@ -1,12 +1,10 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 
 // Zad. 15 Write a Java program to join two array lists.
 
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 
 public class Task15 {
     public static void main(String[] args) {

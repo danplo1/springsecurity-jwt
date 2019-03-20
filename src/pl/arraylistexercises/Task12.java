@@ -1,7 +1,6 @@
-package pl.danplotask;
+package pl.arraylistexercises;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 //Zad.12 Write a Java program to extract a portion of a array list.
