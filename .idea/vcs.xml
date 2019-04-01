@@ -2,5 +2,22 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/BattleShip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/CheckingPESELnumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/DemoProject4SpringBoot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/EratosthenesSieve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/IntroToObjectProgramming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/LambdaAndFunctionInterfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/Optional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/PascalTriangle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/PawełĆwik_Java/Equals_HashCodeMethods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/PawełĆwik_Java/herokuDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/PawełĆwik_Java/transactionDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/RecordAndReadFiles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/conditionalInstructionsTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/pl.bykowski/rectangleapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning Java/strona przykładowa_Boostrap/initializr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oauth2" vcs="Git" />
   </component>
 </project>
