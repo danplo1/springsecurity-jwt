@@ -36,9 +36,12 @@ public class DBServiceResource {
        return getAllUsers();
     }
 
+
+
     @PostMapping("/adduser")
     private List<String> addUser(@RequestBody final User user){
 
+        System.out.println(user);
         userService.saveUser(user);
         return getUsersByUsername(user.getEmail());
     }
